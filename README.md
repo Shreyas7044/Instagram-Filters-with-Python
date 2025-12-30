@@ -22,12 +22,10 @@ If you've ever uploaded a photo to Instagram, you’ve seen amazing filters that
 
 ---
 
-## 📥 Installation
+## 🖼 Application Screenshot
+![Application Screenshot](screenshot.png)
 
-Install the required libraries using pip:
+---
 
-```bash
-pip install instafilter
-pip install opencv-python
-
-##▶️ How to Run the Project
+## 🤝 Contribution
+Feel free to fork, enhance and reuse this project!
