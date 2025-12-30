@@ -23,7 +23,7 @@ If you've ever uploaded a photo to Instagram, you’ve seen amazing filters that
 ---
 
 ## 🖼 Application Screenshot
-![Application Screenshot](screenshot.png)
+![Application Screenshot](Instagram-Filters-with-Python/screenshot.png)
 
 ---
 
